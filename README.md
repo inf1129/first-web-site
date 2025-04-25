@@ -1,1 +1,3 @@
-Youtube 생활코딩 Web1-HTML & Internet 학습
+Youtube 생활코딩 연습 
+Web1 - HTML & Internet
+Web2 - CSS
